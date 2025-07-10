@@ -3,7 +3,7 @@
 ## 🌐 Live Demo
 
 **Try it now:**
-👉 [https://miniragpipeline.streamlit.app/](https://miniragpipeline.streamlit.app/)
+👉 [https://ragpipeline1.streamlit.app/](https://ragpipeline1.streamlit.app/)
 
 *Experience the full RAG pipeline with real-time latency analytics directly in your browser — no setup required!*
 
@@ -16,7 +16,6 @@ This project implements a modern **Retrieval-Augmented Generation (RAG)** pipeli
 It ingests academic papers from arXiv, embeds and stores them in Pinecone, and uses an LLM to answer questions based on retrieved content.
 Each pipeline stage's latency is logged, visualized, and saved for analysis.
 
-**🚀 [Access Live Demo](https://miniragpipeline.streamlit.app/)** — Try the application instantly without any local setup!
 
 ---
 
@@ -47,7 +46,7 @@ Each pipeline stage's latency is logged, visualized, and saved for analysis.
 
 ### ✅ Option 1: Try the Live Demo (Recommended)
 
-👉 **[Access the live app](https://miniragpipeline.streamlit.app/)**
+👉 **[Access the live app](https://ragpipeline1.streamlit.app/)**
 No installation or setup required — just open the link and start asking questions about recent NLP/ML research!
 
 ---
@@ -57,8 +56,8 @@ No installation or setup required — just open the link and start asking questi
 1️⃣ **Clone the repository:**
 
 ```bash
-git clone https://github.com/vijayshreepathak/PineRAG---Fast-RAG-with-Latency-Analytics.git
-cd Latency-Analytics-APP
+git clone https://github.com/yashsinghal14/Latency-Analytics.git
+cd Latency-Analytics
 ```
 
 2️⃣ **Install dependencies:**
@@ -92,7 +91,7 @@ streamlit run app.py
 
 ### On the Live Demo
 
-1. Visit 👉 [https://miniragpipeline.streamlit.app/](https://miniragpipeline.streamlit.app/)
+1. Visit 👉 [https://ragpipeline1.streamlit.app/](https://ragpipeline1.streamlit.app/)
 2. Use the **Theme Toggle** in the sidebar to switch between dark & light modes.
 3. Enter your research question and click "🔍 Get Answer".
 4. View the generated answer, latency metrics, latency bar chart, and top-3 retrieved passages.
@@ -110,7 +109,7 @@ streamlit run app.py
 
 ## 🔎 Sample Query & Result
 
-Try this example on the [live demo](https://miniragpipeline.streamlit.app/):
+Try this example on the [live demo](https://ragpipeline1.streamlit.app/):
 
 * **Query:** What are recent advances in language modeling?
 
@@ -171,8 +170,8 @@ Try this example on the [live demo](https://miniragpipeline.streamlit.app/):
 
 ## 🔗 Links
 
-* 🌐 **Live Demo:** [https://miniragpipeline.streamlit.app/](https://miniragpipeline.streamlit.app/)
-* 📂 **GitHub Repository:** [PineRAG---Fast-RAG-with-Latency-Analytics](https://github.com/vijayshreepathak/PineRAG---Fast-RAG-with-Latency-Analytics)
+* 🌐 **Live Demo:** [https://ragpipeline1.streamlit.app/](https://ragpipeline1.streamlit.app/)
+* 📂 **GitHub Repository:** [Latency-Analytics](https://github.com/yashsinghal14/Latency-Analytics)
 
 ---
 
